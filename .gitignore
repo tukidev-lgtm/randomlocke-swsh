@@ -1,0 +1,13 @@
+# Nunca subir el juego ni mods generados
+Dump/
+romfs/
+exefs/
+Randomlocke_*/
+Randomlocke_*_log.txt
+*.nsp
+*.xci
+*.nca
+prod.keys
+title.keys
+dist/randomlocke_linux
+__pycache__/

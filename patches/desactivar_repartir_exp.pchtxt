@@ -1,0 +1,7 @@
+@nsobid-A3B75BCD3311385AEED67FBEEB79CBB7BF02F471
+@flag offset_shift 0x100
+
+@enabled
+// Desactivar Repartir Experiencia (los que no combaten no reciben exp)
+008A5A34 62000014
+@stop
